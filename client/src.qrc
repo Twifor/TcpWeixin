@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/std">
+        <file>sucai/bg.jpeg</file>
+        <file>sucai/btn_exit.png</file>
+        <file>sucai/btn_exit1.png</file>
+        <file>sucai/btn_exit2.png</file>
+        <file>sucai/btn_minimize.png</file>
+        <file>sucai/btn_minimize1.png</file>
+        <file>sucai/btn_minimize2.png</file>
+        <file>sucai/aa.png</file>
+    </qresource>
+</RCC>
